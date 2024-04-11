@@ -1,4 +1,4 @@
-z# 👋 Hello! Welcome to my Github profile.
+# 👋 Hello! Welcome to my Github profile.
 ## My name is Luiz Eduardo and my nickname is "Lu1zEdu"!
 
 
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?Lu1zEdu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -->
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/Lu1zEdu=ffflabs)](https://github.com/Lu1zEdu/github-readme-stats)
