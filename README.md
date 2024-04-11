@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Luiz Eduardo and my nickname is "Lu1zEdu"!
 
 <!--
 **Lu1zEdu/Lu1zEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
