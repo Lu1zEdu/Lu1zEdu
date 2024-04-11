@@ -1,9 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luiz Eduardo and my nickname is "Lu1zEdu"!
 
+
+
 <!--
 **Lu1zEdu/Lu1zEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+###Estou aprendendo
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -15,3 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/Lu1zEdu">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
