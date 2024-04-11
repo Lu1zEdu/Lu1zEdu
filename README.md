@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div>
 <a href="https://github.com/Lu1zEdu">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?Lu1zEdu&layout=compact&langs_count=7&theme=dracula"/>
