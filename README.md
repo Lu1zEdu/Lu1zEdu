@@ -8,7 +8,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zEdu&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lu1zEdu)](https://github.com/anuraghazra/github-readme-stats)
+[![Lu1zEdu stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lu1zEdu)](https://github.com/Lu1zEdu/github-readme-stats)
 </div>
 <!--
 **Lu1zEdu/Lu1zEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
