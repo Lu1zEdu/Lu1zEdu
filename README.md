@@ -6,7 +6,6 @@
 <div>
 <a href="https://github.com/Lu1zEdu">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zEdu&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu1zEdu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
 **Lu1zEdu/Lu1zEdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
