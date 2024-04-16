@@ -1,11 +1,14 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luiz Eduardo and my nickname is "Lu1zEdu"!
 
-
+## Ferramentas e Tecnologia
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+</div>
 
 <div>
 <a href="https://github.com/Lu1zEdu">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zEdu&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zEdu&layout=compact&langs_count=7&theme=dracula" width="40" height="40"/>
 </div>
 
 <!--
