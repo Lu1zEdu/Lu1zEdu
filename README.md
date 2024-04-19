@@ -2,7 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=3FF700&random=false&width=435&lines=Welcome+to+my+Github+profile+!)](https://git.io/typing-svg)
 ## My name is Luiz Eduardo and my nickname is "Lu1zEdu"!
 - 🚀 I’m currently estudying Technology in Analysis & Systems Development at FIAP.
-- 😄 Pronouns: He/Him
 - 🌎 Brazilian, PT-EN.
 #
 ## *Ferramentas e Tecnologias :*
