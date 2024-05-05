@@ -19,8 +19,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/Lu1zEdu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lu1zEdu&theme=shadow_green&show_icons=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lu1zEdu&hide=html&layout=compact&theme=shadow_green" /><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Lu1zEdu&theme=dark" alt="GitHub Streak" /></a>
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Lu1zEdu&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" /><img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Lu1zEdu&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  </a>
 </div>
 
 ## *Contatos :*
@@ -30,3 +30,4 @@
 <a href = "mailto:ledu64816@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/Luiz Eduardo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
