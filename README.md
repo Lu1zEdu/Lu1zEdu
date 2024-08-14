@@ -10,7 +10,7 @@
 </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vite,react,git,aws,django,discord,figma,flask,fortran,github,java,md,mysql,nodejs,npm,postgres,py,sqlite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,vite,react,git,aws,django,discord,figma,flask,fortran,github,java,md,mysql,nodejs,npm,postgres,py,sqlite,pycharm,&perline=14" />
   </a>
 </p>        
 <h1 align="center">
@@ -18,7 +18,7 @@
 </h1>
 <div align="center">
   <a href="https://beacons.ai/Lu1zEdu">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Lu1zEdu&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" /><img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Lu1zEdu&hide=html,scss,css&langs_count=10&layout=compact&theme=radical&card_width=150" />
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Lu1zEdu&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" /><img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Lu1zEdu&hide=html,scss,css&langs_count=20&layout=compact&theme=radical&card_width=150" />
   </a>
 </div>
 <h1 align="center">
