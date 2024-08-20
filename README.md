@@ -1,7 +1,3 @@
-Aqui está uma versão reformulada do seu README para deixá-lo mais organizado e visualmente atraente:
-
----
-
 # 👋 Hello! My name is Luiz Eduardo!
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3FF700&width=500&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
@@ -47,7 +43,3 @@ Hi there! My name is **Luiz Eduardo**, but you can call me **Lu1zEdu**. I’m pa
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
-
-Espero que você goste dessas melhorias! Se precisar de mais ajustes, é só avisar.
