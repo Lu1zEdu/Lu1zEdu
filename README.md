@@ -5,7 +5,7 @@
 Hi there! My name is **Luiz Eduardo**, but you can call me **Lu1zEdu**. I’m passionate about technology and currently pursuing a degree in **Technology in Analysis & Systems Development** at **FIAP**.
 
 - 🚀 Constantly learning and exploring new technologies.
-- 🌱 Currently diving deeper into Python , Django , SQL and Java.
+- 🌱 Currently diving deeper into Python , C# , SQL and Java.
 - 🎯 Goal-oriented and motivated to build impactful software.
 - 🌎 Native Brazilian, fluent in Portuguese and basic English.
 - 💡 Fun Fact: I enjoy solving complex problems and learning new programming languages.
