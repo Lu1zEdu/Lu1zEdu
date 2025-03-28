@@ -25,7 +25,7 @@ Hi there! My name is **Luiz Eduardo**, but you can call me **Lu1zEdu**. I’m pa
 <div align="center">
   <a href="https://beacons.ai/Lu1zEdu">
     <img height="180em" src="https://my-stats-43gk.vercel.app/api?username=Lu1zEdu&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=300" alt="GitHub Stats"/>
-    <img height="180em" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Lu1zEdu&hide=python&langs_count=20&layout=compact&theme=radical&card_width=300" alt="Top Languages"/>
+    <img height="180em" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Lu1zEdu&hide=python,html&langs_count=20&layout=compact&theme=radical&card_width=300" alt="Top Languages"/>
   </a>
 </div>
 
