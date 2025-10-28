@@ -15,7 +15,7 @@ Hi there! My name is **Luiz Eduardo**, but you can call me **Lu1zEdu**. I’m pa
 ## 🛠️ Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,git,django,flask,fortran,java,postgres,mysql,py,cpp,c,linux,cs,react,redis,firebase,azure,rabbitmq,dotnet,arduino&perline=10" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,git,django,flask,fortran,java,postgres,mysql,py,cpp,c,linux,cs,react,redis,firebase,azure,rabbitmq,dotnet,ts&perline=10" alt="My Skills" />
   </a>
 </p>
 
