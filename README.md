@@ -67,19 +67,19 @@ Recently, I worked at the Laboratory of Plasmas and Processes (LPP) at the Aeron
 <div>
   <ul>
     <li>
-        <a href="" target="_blank">MarketFlow</a>
+        <a href="https://github.com/Lu1zEdu/MarketFlow" target="_blank">MarketFlow</a>
         <p>Marketplace platform built with Java and Spring ecosystem.</p>
     </li>
      <li>
-        <a href="" target="_blank">IntelliDesk</a>
+        <a href="https://github.com/Lu1zEdu/IntelliDesk" target="_blank">IntelliDesk</a>
         <p>AI-powered application using Spring AI and OpenAI integration.</p>
     </li>
      <li>
-        <a href="" target="_blank">IncludIA</a>
+        <a href="https://github.com/IncludIA" target="_blank">IncludIA</a>
         <p>Inclusive recruitment platform focused on accessibility and AI-assisted hiring.</p>
     </li>
      <li>
-        <a href="" target="_blank">LPP Systems</a>
+        <a href="https://github.com/LPP-ITA" target="_blank">LPP Systems</a>
         <p>Monitoring, infrastructure, automation and access control solutions developed during my internship experience.</p>
     </li>
   </ul>
